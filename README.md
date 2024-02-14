@@ -38,7 +38,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 <div style="display:flex; justify-content: space-between;">
-    <img style="height=300px width=50vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoserpa1&layout=donut&hide=html&langs_count=5&theme=midnight-purple&hide_title=true" alt="Rick Staa's Language stats" />
+    <img style="height=300px width=50vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoserpa1&layout=donut&hide=html&hide=html,c,assembly,perl,makefile,yacc,shell,smpl&langs_count=5&theme=midnight-purple&hide_title=true" alt="Rick Staa's Language stats" />
     <img style="height=300px width=50vw" src="https://github-readme-stats.vercel.app/api?username=eduardoserpa1&show_icons=true&theme=midnight-purple&hide_title=true" alt="Rick Staa's Language stats" />
     
 </div>
