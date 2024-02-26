@@ -1,5 +1,5 @@
 
-### Software developer graduating in computer science at [PUCRS](https://www.pucrs.br/en/the-university/).
+### Software developer and computer science student at [PUCRS](https://www.pucrs.br/en/the-university/).
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-eduardo-rodrigues-serpa-66b627198/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudu.rserpa@gmail.com)
 ## Stacks
